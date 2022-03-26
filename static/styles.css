@@ -1,0 +1,135 @@
+/* Size for brand */
+nav .navbar-brand
+{
+    font-size: xx-large;
+}
+
+/* Colors for brand */
+nav .navbar-brand .blue
+{
+    color: #3ec4e0;
+}
+nav .navbar-brand .red
+{
+    color: #ea433b;
+}
+nav .navbar-brand .yellow
+{
+    color: #f5b82e;
+}
+nav .navbar-brand .green
+{
+    color: #92c84a;
+}
+
+nav .bg-light
+{
+    background-color: #f5b82e;
+}
+
+.footer_top_holder
+{
+    background-color: #92c84a;
+}
+
+.footer_top, .footer_top.footer_top_full {
+    padding-left: 75px;
+}
+
+.two_columns_50_50 {
+    width: 100%;
+}
+
+.footer_top, .footer_top .footer_col1, .footer_top .container_inner>.widget, .footer_top.footer_top_full>.widget {
+    text-align: left;
+}
+.two_columns_50_50>.column1, .two_columns_50_50>.column2 {
+    width: 50%;
+    float: left;
+}
+
+.two_columns_50_50>.column1>.column_inner {
+    padding: 0 10px 0 0;
+}
+
+.footer_top .column_inner>div h5
+{
+    color: #fff;
+}
+
+.footer_top h5 {
+    font-size: 16px;
+    letter-spacing: 0px;
+    line-height: 15px;
+    font-weight: 700;
+    text-transform: none;
+    color: #fff;
+    font-style: normal;
+}
+
+.footer_top, .footer_top p, .footer_top span:not(.q_social_icon_holder):not(.fa-stack):not(.qode_icon_shortcode):not(.qode_icon_font_elegant):not(.qode-icon-kiko), .footer_top li, .footer_top .textwidget, .footer_top .widget_recent_entries>ul>li>span 
+{
+    font-size: 16px;
+    letter-spacing: 0px;
+    line-height: 26px;
+    font-weight: 300;
+    text-transform: none;
+    font-style: normal;
+    color: #fff;
+}
+
+.footer_top
+{
+    font-size: 16px;
+    letter-spacing: 0px;
+    line-height: 26px;
+    font-weight: 300;
+    text-transform: none;
+    font-style: normal;
+}
+
+.footer_top a:not(.qbutton) 
+{
+    font-size: 16px;
+    letter-spacing: 0px;
+    line-height: 26px;
+    font-weight: 300;
+    text-transform: none;
+    font-style: normal;
+    color: #f0ab2a !important;
+}
+
+ div
+ {
+    background: 0 0;
+    border: 0;
+    margin: 0;
+    padding: 0;
+    vertical-align: baseline;
+    outline: 0;
+}
+
+.footer_top .two_columns_50_50 .column2 .column_inner>div {
+    margin: 0 0 0 15px;
+}
+
+.footer_bottom_holder
+{
+    font-size: 12px;
+    font-style: normal;
+    background-color: #683815;
+    display: block;
+}
+
+.footer_bottom
+{
+    font-size: 12px;
+    font-style: normal;
+    color: #fff;
+    display: block;
+    display: table-cell;
+    line-height: 22px;
+    height: 53px;
+    width: 1%;
+    text-align: center;
+}
