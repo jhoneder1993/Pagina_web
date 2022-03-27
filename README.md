@@ -9,9 +9,9 @@ se puede hacer registro y al momento de realizarlo ingresa a la pagina index.htm
 puede hacer cambio de contraseña o hacer logout
 
 #### Archivos:
-apology: en caso que el usuario ya este registrado o en que se presenten algunos errores
-contactos: pagina en donde habra informacion de donde estan ubicados
-index: pagina principal del proyecto
+# apology: en caso que el usuario ya este registrado o en que se presenten algunos errores
+# contactos: pagina en donde habra informacion de donde estan ubicados
+# index: pagina principal del proyecto
 layout: el template para las demas html
 login: ingresar con usuario y contraseña
 nosotros: informacion como vision, mision y proque trabajar con ellos
